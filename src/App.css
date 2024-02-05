@@ -17,6 +17,11 @@ img {
   height: auto;
 }
 
+p{
+  position: absolute;
+  bottom: 0;
+}
+
 /* CSS */
 .button-1 {
   align-items: center;

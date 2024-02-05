@@ -89,6 +89,7 @@ function App() {
           </Routes>
         </Router>
       </div>
+      <p>Credit to Mewtru on Instagram for the idea :D</p>
     </div>
   );
 }
